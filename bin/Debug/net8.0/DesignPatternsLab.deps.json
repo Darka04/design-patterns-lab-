@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DesignPatternsLab/1.0.0": {
+        "runtime": {
+          "DesignPatternsLab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesignPatternsLab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
